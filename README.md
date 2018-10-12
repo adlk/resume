@@ -13,13 +13,6 @@ Founded several startups and tech/design communities. Wide-ranging design and te
 * Key responsibility was to simplify the release process of the electron app by modernizing the infrastructure and moving builds to CI services.
 * General improvements, bugfixing and refactoring of legacy code.
 
-### Input Output (IOHK)
-
-**External consultant** (remote) – 2017 - 2018
-
-* Development of electron based crypto wallet for Cardano (ADA).
-* Research and concept for plugin infrastructure to enable multi currency wallets.
-
 ### Franz
 
 **Founder** (Vienna, Austria) – 2016 - present
@@ -40,6 +33,13 @@ Franz is a messaging app that combines chat & messaging services like Slack, Wha
   * Sofort.com payment plugin for Gravity Forms.
   * Airport parking space reservation with Sofort.com and Stripe integration.
   * WP REST API based API for Uber Eats competitor based on WooCommerce data.
+
+### Input Output (IOHK)
+
+**External consultant** (remote) – 2017 - 2018
+
+* Development of electron based crypto wallet for Cardano (ADA).
+* Research and concept for plugin infrastructure to enable multi currency wallets.
 
 ### Swell / Swelly
 
